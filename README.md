@@ -1,4 +1,3 @@
-
 # 🛒 Sales and Inventory Management System with Verilog 🛍️
 
 This project implements a simple sales and inventory management system using **Verilog** hardware description language. The system can calculate the total price, apply discounts, compute the remaining amount, and manage product inventory. It also detects low stock levels and issues alerts. 🚨
@@ -41,8 +40,12 @@ To run the project, follow these steps:
 2. **Compile**: Compile the Verilog files.
 3. **Run**: Execute the testbench to view the simulation results.
 
+```bash
 iverilog -o output MainModule.v testbench.v
 vvp output
+```
+
+---
 
 ## 📊 Testbench Outputs
 
@@ -79,12 +82,3 @@ If you'd like to contribute to this project, please follow these steps:
 5. Open a pull request. 📥
 
 ---
-
-
-
----
-
-**Made with ❤️ by you!** 🚀
-```
-
-این نسخه انگلیسی و قابل کپی است و از ایموجی‌ها و فرمت‌بندی‌های جذاب برای زیباسازی استفاده کرده‌ام. امیدوارم به کارتان بیاید! 😊
