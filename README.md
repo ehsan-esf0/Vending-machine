@@ -1,4 +1,4 @@
-حتماً! در اینجا نسخه انگلیسی و قابل کپی از `README.md` با ایموجی‌ها و فرمت‌بندی‌های جذاب آورده شده است:
+
 # 🛒 Sales and Inventory Management System with Verilog 🛍️
 
 This project implements a simple sales and inventory management system using **Verilog** hardware description language. The system can calculate the total price, apply discounts, compute the remaining amount, and manage product inventory. It also detects low stock levels and issues alerts. 🚨
